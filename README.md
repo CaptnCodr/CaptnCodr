@@ -2,7 +2,8 @@
 
   🚧 This section is under contruction. 🚧
 
-- 🔭 I’m currently working on little F# projects.
+- 💻 .NET C# developer at @teamneusta.
+- 🔭 I’m currently working on little F# projects in my spare time.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like 🥑's a lot.
 - 💪 Weight lifting
