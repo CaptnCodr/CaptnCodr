@@ -7,6 +7,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like 🥑's a lot.
 - 💪 Weight lifting
+- 🪙 Numismatist
 
 <!--
 **CaptnCodr/CaptnCodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
