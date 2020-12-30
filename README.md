@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-  🚧 This section is under contruction. 🚧
-
 - 💻 C# .NET developer at [@teamneusta](https://github.com/teamneusta).
 - 🔭 I’m currently working on little F# projects in my spare time.
 - 😄 Pronouns: he/him
