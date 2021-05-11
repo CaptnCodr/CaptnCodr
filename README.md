@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 - 💻 C# .NET developer at [@teamneusta](https://github.com/teamneusta).
-- 🔭 I’m currently working on little F# projects in my spare time.
+- 🔭 I’m currently working on little F# projects in my spare time. (e.g. [Pushbullet CLI](https://github.com/CaptnCodr/pushbullet-cli))
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like 🥑's a lot.
 - 💪 Weight lifting
