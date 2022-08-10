@@ -1,8 +1,8 @@
 ### Hey there 👋
 
 - 💻 .NET developer at [@teamneusta](https://github.com/teamneusta)
-- 🚧 Maintainer of [FsUnit](https://github.com/fsprojects/FsUnit)
-- 🔭 I’m currently working on little F# projects in my spare time ([Pushbullet CLI](https://github.com/CaptnCodr/pushbullet-cli), [Inventory CLI](https://github.com/CaptnCodr/inventory-cli))
+- 🚧 Maintainer of [FsUnit](https://github.com/fsprojects/FsUnit) & [NHamcrest](https://github.com/nhamcrest/NHamcrest)
+- 🔭 I’m currently working on little F# projects in my spare time ([Pushbullet CLI](https://github.com/CaptnCodr/pushbullet-cli), [Inventory CLI](https://github.com/CaptnCodr/inventory-cli), [DHL CLI](https://github.com/CaptnCodr/dhl-cli))
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like 🥑's a lot.
 - 💪 Weight lifting
