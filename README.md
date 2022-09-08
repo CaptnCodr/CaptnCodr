@@ -6,6 +6,7 @@
   + [Pushbullet CLI](https://github.com/CaptnCodr/pushbullet-cli)
   + [Inventory CLI](https://github.com/CaptnCodr/inventory-cli)
   + [DHL CLI](https://github.com/CaptnCodr/dhl-cli)
+  + [GitHub API CLI](https://github.com/CaptnCodr/github-api-cli)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like 🥑's a lot.
 - 💪 Weight lifting
