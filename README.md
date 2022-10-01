@@ -1,10 +1,11 @@
 ### Hey there 👋
 
 - 💻 I’m currently working on small F# projects in my spare time:
-  + [Pushbullet CLI](https://github.com/CaptnCodr/pushbullet-cli) 
-  + [Inventory CLI](https://github.com/CaptnCodr/inventory-cli)
-  + [DHL CLI](https://github.com/CaptnCodr/dhl-cli)
-  + [GitHub API CLI](https://github.com/CaptnCodr/github-api-cli)
+  + 🐚 [Fli](https://github.com/CaptnCodr/Fli)
+  + 💨 [Pushbullet CLI](https://github.com/CaptnCodr/pushbullet-cli) 
+  + 📓 [Inventory CLI](https://github.com/CaptnCodr/inventory-cli)
+  + 📦 [DHL CLI](https://github.com/CaptnCodr/dhl-cli)
+  + :octocat: [GitHub API CLI](https://github.com/CaptnCodr/github-api-cli)
 - 🚧 Maintainer of [FsUnit](https://github.com/fsprojects/FsUnit) & [NHamcrest](https://github.com/nhamcrest/NHamcrest)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like 🥑's a lot.
