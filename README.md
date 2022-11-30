@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hello there 👋
 
 - 💻 I’m currently working on small F# projects in my spare time:
   + 🐚 [Fli](https://github.com/CaptnCodr/Fli)
@@ -8,7 +8,7 @@
   + :octocat: [GitHub API CLI](https://github.com/CaptnCodr/github-api-cli)
 - 🚧 Maintainer of [FsUnit](https://github.com/fsprojects/FsUnit) & [NHamcrest](https://github.com/nhamcrest/NHamcrest)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like 🥑's a lot.
+- ⚡ Fun fact: I like 🧀 and 🥑's a lot.
 - 💪 Weight lifting
 - 🪙 Numismatist
 
